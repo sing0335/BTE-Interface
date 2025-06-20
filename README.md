@@ -1,5 +1,5 @@
 # BTE-Interface
-This repository contains the original numerical data used to generate the phonon dispersion curves in our manuscript, which is to be published in Physical Review B (PRB).
+This repository contains the original numerical data used to generate the phonon dispersion curves and density of states  for Si and Ge in our manuscript, which is to be published in Physical Review B (PRB).
 
 # How to Use
 To access the data:
